@@ -44,7 +44,7 @@
 "PkR-iH-H1j.ibShadowedToolTip" = "拷贝";
 
 /* Class = "NSTextFieldCell"; title = "Atlantis.start(hostName: \"nghias\")"; ObjectID = "VwY-dG-rTd"; */
-"VwY-dG-rTd.title" = "Atlantis.start（主机名：\“装饰\”）";
+"VwY-dG-rTd.title" = "Atlantis.start(hostName: \"nghias\")";
 
 /* Class = "NSButton"; ibShadowedToolTip = "Copy"; ObjectID = "Yfe-og-Un2"; */
 "Yfe-og-Un2.ibShadowedToolTip" = "拷贝";
@@ -77,7 +77,7 @@
 "g6F-W8-wu0.title" = " 无需配置 HTTP 代理、安装或信任任何证书";
 
 /* Class = "NSTextFieldCell"; title = "Add to application(_:didFinishLaunchingWithOptions:)"; ObjectID = "i97-oV-dgj"; */
-"i97-oV-dgj.title" = "添加到应用程序(_:didFinishLaunchingWithOptions:)";
+"i97-oV-dgj.title" = "添加到 application(_:didFinishLaunchingWithOptions:)";
 
 /* Class = "NSButtonCell"; title = " Your Atlantis iOS version is out-of-date and not compatible. Please update Atlantis!"; ObjectID = "nRT-uP-e0V"; */
 "nRT-uP-e0V.title" = " 您的 Atlantis iOS 版本已过时且不兼容。请更新 Atlantis ！";
