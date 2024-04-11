@@ -1,5 +1,5 @@
 /* Class = "NSTextFieldCell"; title = "Request Panel"; ObjectID = "DFw-oH-BU1"; */
-"DFw-oH-BU1.title" = "请求小组";
+"DFw-oH-BU1.title" = "Request 面板";
 
 /* Class = "NSTextFieldCell"; title = "Select following Tabs to render the body content as certain format"; ObjectID = "TZ4-kh-S0L"; */
 "TZ4-kh-S0L.title" = "选择以下选项卡以将正文内容呈现为特定格式";
@@ -14,4 +14,4 @@
 "p8l-oa-Tki.title" = "仅适用于 HTML、CSS 和 JS";
 
 /* Class = "NSTextFieldCell"; title = "Response Panel"; ObjectID = "xuo-29-oqA"; */
-"xuo-29-oqA.title" = "响应小组";
+"xuo-29-oqA.title" = "Response 面板";
