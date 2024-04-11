@@ -20,7 +20,7 @@
 "DnD-z4-5WR.title" = "盒子";
 
 /* Class = "NSMenuItem"; title = "Abort All"; ObjectID = "E4X-a3-Otj"; */
-"E4X-a3-Otj.title" = "停止一切";
+"E4X-a3-Otj.title" = "全部中止";
 
 /* Class = "NSTextFieldCell"; title = "https://api.producthunt.com/v1/posts"; ObjectID = "Eqx-BA-TgH"; */
 "Eqx-BA-TgH.title" = "https://api.producthunt.com/v1/posts";
@@ -41,7 +41,7 @@
 "LVK-b6-XVh.ibShadowedToolTip" = "中止此断点 (⌘\\)";
 
 /* Class = "NSSegmentedCell"; M1G-re-2Fh.ibShadowedLabels[0] = "Execute ⌘⏎"; ObjectID = "M1G-re-2Fh"; */
-"M1G-re-2Fh.ibShadowedLabels[0]" = "执行⌘⏎";
+"M1G-re-2Fh.ibShadowedLabels[0]" = "执行 ⌘⏎";
 
 /* Class = "NSMenuItem"; ibShadowedToolTip = "Continue the request with original data"; ObjectID = "MQ2-U0-MJr"; */
 "MQ2-U0-MJr.ibShadowedToolTip" = "使用原始数据继续请求";
@@ -107,7 +107,7 @@
 "xWZ-y0-M5i.title" = "聚焦此窗口以获取新断点";
 
 /* Class = "NSSegmentedCell"; yd0-33-MHs.ibShadowedLabels[0] = "Continue ⌘ ."; ObjectID = "yd0-33-MHs"; */
-"yd0-33-MHs.ibShadowedLabels[0]" = "继续⌘。";
+"yd0-33-MHs.ibShadowedLabels[0]" = "继续 ⌘ .";
 
 /* Class = "NSMenuItem"; title = "Abort"; ObjectID = "zeO-DB-dDJ"; */
 "zeO-DB-dDJ.title" = "中止";
