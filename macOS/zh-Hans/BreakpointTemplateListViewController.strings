@@ -5,31 +5,31 @@
 "GKN-io-P9A.title" = "文本单元格";
 
 /* Class = "NSMenuItem"; title = "Request Template..."; ObjectID = "IMI-ux-t59"; */
-"IMI-ux-t59.title" = "请求模板...";
+"IMI-ux-t59.title" = "Request模板...";
 
 /* Class = "NSMenuItem"; title = "Duplicate"; ObjectID = "ONg-4h-hl7"; */
 "ONg-4h-hl7.title" = "复制";
 
 /* Class = "NSMenuItem"; title = "Response Template..."; ObjectID = "RRe-ce-k6w"; */
-"RRe-ce-k6w.title" = "响应模板...";
+"RRe-ce-k6w.title" = "Response模板...";
 
 /* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "U33-Xs-tIE"; */
 "U33-Xs-tIE.title" = "表格视图单元格";
 
 /* Class = "NSTextFieldCell"; title = "Define a Request/Response templates"; ObjectID = "Ujt-TL-uuO"; */
-"Ujt-TL-uuO.title" = "定义请求/响应模板";
+"Ujt-TL-uuO.title" = "定义Request/Response模板";
 
 /* Class = "NSMenuItem"; title = "More"; ObjectID = "aPz-OI-GRx"; */
-"aPz-OI-GRx.title" = "更多的";
+"aPz-OI-GRx.title" = "更多";
 
 /* Class = "NSMenuItem"; title = "New Response..."; ObjectID = "eEq-e6-ixU"; */
-"eEq-e6-ixU.title" = "新的回应...";
+"eEq-e6-ixU.title" = "新建Response...";
 
 /* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "q78-GZ-LsY"; */
 "q78-GZ-LsY.title" = "表格视图单元格";
 
 /* Class = "NSMenuItem"; title = "New Request..."; ObjectID = "tES-LS-vFe"; */
-"tES-LS-vFe.title" = "新请求...";
+"tES-LS-vFe.title" = "新建Request...";
 
 /* Class = "NSMenuItem"; title = "More"; ObjectID = "tKO-zk-s8J"; */
 "tKO-zk-s8J.title" = "更多的";
