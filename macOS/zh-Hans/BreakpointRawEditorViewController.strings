@@ -1,8 +1,8 @@
 /* Class = "NSMenuItem"; title = "Item"; ObjectID = "1Lx-lk-t4g"; */
-"1Lx-lk-t4g.title" = "物品";
+"1Lx-lk-t4g.title" = "条目";
 
 /* Class = "NSMenuItem"; title = "Item"; ObjectID = "3rs-aq-1w4"; */
-"3rs-aq-1w4.title" = "物品";
+"3rs-aq-1w4.title" = "条目";
 
 /* Class = "NSMenuItem"; title = "Manage Templates..."; ObjectID = "6J8-jC-otr"; */
 "6J8-jC-otr.title" = "管理模板...";
@@ -14,7 +14,7 @@
 "BlX-ye-kxj.title" = "Requests";
 
 /* Class = "NSMenuItem"; title = "Reset to the Original"; ObjectID = "NLV-q7-6np"; */
-"NLV-q7-6np.title" = "重置为原始";
+"NLV-q7-6np.title" = "重置为初始状态";
 
 /* Class = "NSMenuItem"; title = "Templates"; ObjectID = "NgW-Ei-XPh"; */
 "NgW-Ei-XPh.title" = "模板";
