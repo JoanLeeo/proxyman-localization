@@ -578,7 +578,7 @@
 "TM7-CW-I16.ibShadowedToolTip" = "显示二维码";
 
 /* Class = "NSButton"; ibShadowedToolTip = "Copy the URL"; ObjectID = "hRu-Te-szt"; */
-"hRu-Te-szt.ibShadowedToolTip" = "复制 URL";
+"hRu-Te-szt.ibShadowedToolTip" = "拷贝 URL";
 
 /* Class = "NSButtonCell"; title = "Button"; ObjectID = "x5x-vL-7sF"; */
 "x5x-vL-7sF.title" = "按钮";
