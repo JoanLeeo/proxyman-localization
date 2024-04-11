@@ -23,7 +23,7 @@
 "SoZ-Lw-ECB.title" = "名称：";
 
 /* Class = "NSTextFieldCell"; title = "⇧⌘N: Add new Response"; ObjectID = "VOX-1b-ibn"; */
-"VOX-1b-ibn.title" = "⇧⌘N：添加新的响应";
+"VOX-1b-ibn.title" = "⇧⌘N：添加新的Response";
 
 /* Class = "NSTextFieldCell"; title = "Request Raw Message"; ObjectID = "Vnz-Ol-bvE"; */
 "Vnz-Ol-bvE.title" = "请求原始消息";
@@ -38,4 +38,4 @@
 "xPm-2i-pXF.title" = "盒子";
 
 /* Class = "NSTextFieldCell"; title = "⌘N: Add new Request"; ObjectID = "yML-xK-kVi"; */
-"yML-xK-kVi.title" = "⌘N：添加新请求";
+"yML-xK-kVi.title" = "⌘N：添加新Request";
