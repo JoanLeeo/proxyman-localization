@@ -332,7 +332,7 @@
 "bBk-Lg-1eY.title" = " 重启";
 
 /* Class = "NSTextFieldCell"; title = "Android Emulator Devices found:"; ObjectID = "bvf-FZ-bZk"; */
-"bvf-FZ-bZk.title" = "找到安卓模拟器设备：";
+"bvf-FZ-bZk.title" = "找到Android模拟器设备：";
 
 /* Class = "NSTextFieldCell"; title = "Problem?"; ObjectID = "bxO-nB-eKN"; */
 "bxO-nB-eKN.title" = "问题？";
@@ -452,7 +452,7 @@
 "nXr-yg-WW5.title" = "192.168.1.1";
 
 /* Class = "NSButtonCell"; title = "Try standard Android Guideline"; ObjectID = "neY-c6-5Zp"; */
-"neY-c6-5Zp.title" = "试试标准安卓指南";
+"neY-c6-5Zp.title" = "试试标准Android指南";
 
 /* Class = "NSButtonCell"; title = "Button"; ObjectID = "oKL-FY-AOt"; */
 "oKL-FY-AOt.title" = "按钮";
@@ -500,7 +500,7 @@
 "u2e-pe-Xi6.title" = "0 设备";
 
 /* Class = "NSButton"; ibShadowedToolTip = "Open Android Guideline"; ObjectID = "uaZ-PK-23A"; */
-"uaZ-PK-23A.ibShadowedToolTip" = "打开安卓指南";
+"uaZ-PK-23A.ibShadowedToolTip" = "打开Android指南";
 
 /* Class = "NSMenuItem"; title = "Import PEM / DER..."; ObjectID = "vZW-He-kFQ"; */
 "vZW-He-kFQ.title" = "导入 PEM / DER...";
@@ -575,10 +575,10 @@
 "12N-zA-viy.title" = "http://proxy.man/ssl";
 
 /* Class = "NSButton"; ibShadowedToolTip = "Show QR Code"; ObjectID = "TM7-CW-I16"; */
-"TM7-CW-I16.ibShadowedToolTip" = "Show QR Code";
+"TM7-CW-I16.ibShadowedToolTip" = "显示二维码";
 
 /* Class = "NSButton"; ibShadowedToolTip = "Copy the URL"; ObjectID = "hRu-Te-szt"; */
-"hRu-Te-szt.ibShadowedToolTip" = "Copy the URL";
+"hRu-Te-szt.ibShadowedToolTip" = "复制 URL";
 
 /* Class = "NSButtonCell"; title = "Button"; ObjectID = "x5x-vL-7sF"; */
-"x5x-vL-7sF.title" = "Button";
+"x5x-vL-7sF.title" = "按钮";
