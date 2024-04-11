@@ -5,7 +5,7 @@
 "QwX-LI-34j.title" = "获取请求/响应标头的值并将其显示为流表上的列。";
 
 /* Class = "NSTextFieldCell"; title = "Response Headers"; ObjectID = "eC4-0q-xWK"; */
-"eC4-0q-xWK.title" = "响应标头";
+"eC4-0q-xWK.title" = "Response Headers";
 
 /* Class = "NSButtonCell"; title = "Check"; ObjectID = "fyY-Yw-hUg"; */
 "fyY-Yw-hUg.title" = "查看";
@@ -23,4 +23,4 @@
 "sQr-mA-QYw.title" = "文本单元格";
 
 /* Class = "NSTextFieldCell"; title = "Request Headers"; ObjectID = "tVg-Eu-Iy4"; */
-"tVg-Eu-Iy4.title" = "请求标头";
+"tVg-Eu-Iy4.title" = "Request Headers";
